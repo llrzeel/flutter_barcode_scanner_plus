@@ -1,0 +1,9 @@
+# Exclude unwanted build and tooling artifacts
+.dart_tool/
+.DS_Store
+build/
+.packages
+pubspec.lock
+
+# Allow everything else, especially the lib directory
+!lib/flutter_barcode_scanner.dart
