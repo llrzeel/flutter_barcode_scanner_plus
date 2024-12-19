@@ -2,7 +2,7 @@
 
 A plugin for Flutter apps that adds barcode scanning support on both Android and iOS.
 
-[![pub package](https://img.shields.io/badge/flutter_barcode_scanner_plus-v3.0.4-blue)](https://pub.dev/packages/flutter_barcode_scanner_plus)
+[![pub package](https://img.shields.io/badge/flutter_barcode_scanner_plus-v3.0.5-blue)](https://pub.dev/packages/flutter_barcode_scanner_plus)
 
 ![Demo gif](https://github.com/AmolGangadhare/MyProfileRepo/blob/master/flutter_barcode_scanning_demo.gif "Demo")
 
@@ -62,7 +62,7 @@ After making the changes in Android ans iOS add flutter_barcode_scanner to `pubs
 ```  
 dependencies:
   ...
-  flutter_barcode_scanner: ^3.0.0
+  flutter_barcode_scanner_plus: ^3.0.5
 ```
 
 ### One time scan
