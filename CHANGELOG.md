@@ -1,3 +1,8 @@
+## 3.0.4
+
+* Updated ios release issue2
+
+
 
 ## 3.0.3
 
