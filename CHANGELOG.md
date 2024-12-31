@@ -1,3 +1,7 @@
+## 3.0.7
+
+* Updated Lexical or Preprocessor Issue for ios
+
 ## 3.0.6
 
 * Updated small bug for ios
