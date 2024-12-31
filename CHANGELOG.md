@@ -1,3 +1,8 @@
+## 3.0.6
+
+* Updated small bug for ios
+
+
 ## 3.0.5
 
 * Updated readme
