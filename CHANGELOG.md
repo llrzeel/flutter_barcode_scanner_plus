@@ -1,3 +1,7 @@
+## 3.0.8
+
+- Updated android sdk
+
 ## 3.0.7
 
 - Updated Lexical or Preprocessor Issue for ios
