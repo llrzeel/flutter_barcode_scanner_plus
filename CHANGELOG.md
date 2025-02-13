@@ -1,6 +1,10 @@
+## 3.0.7
+
+- Updated Lexical or Preprocessor Issue for ios
+
 ## 3.0.6
 
-- Updated android sdk
+- Updated small bug for ios
 
 ## 3.0.5
 
